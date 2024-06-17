@@ -21,3 +21,12 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 npx react-native run-android
 
 ```
+
+
+# Capturas
+
+<img width="336" alt="image" src="https://github.com/vivz-dev/pruebaReactN/assets/33163800/6c0ad914-199d-4b7c-8402-4052c16943ac">
+<img width="336" alt="image" src="https://github.com/vivz-dev/pruebaReactN/assets/33163800/f2eb1417-48d4-4074-924b-17b1465f5242">
+<img width="336" alt="image" src="https://github.com/vivz-dev/pruebaReactN/assets/33163800/6bdfbe7d-9884-4da9-ae4b-9fbd54ac8252">
+
+
